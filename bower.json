@@ -1,0 +1,21 @@
+{
+  "name": "labelle",
+  "version": "1.0.0",
+  "authors": [
+    "Victor Dias <victor.dias.oliveira@gmail.com>",
+    "Jonatan Souza <jonatangd.souza@gmail.com>",
+    "Jonathan Barbosa <jonathanpbarbosa@gmail.com>"
+  ],
+  "description": "Sistema destinado a cabelereiros e afins",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
