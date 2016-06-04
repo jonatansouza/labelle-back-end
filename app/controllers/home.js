@@ -3,7 +3,7 @@ module.exports = function(app) {
   var User = app.models.user;
 
   controller.index = function(req, res) {
-    res.render('home/index', {
+    res.render('auth/login', {
       user: req.user
     });
   };
